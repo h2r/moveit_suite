@@ -10,3 +10,6 @@
 [submodule "moveit_msgs"]
 	path = moveit_msgs
 	url = https://github.com/ros-planning/moveit_msgs.git
+[submodule "moveit_resources"]
+	path = moveit_resources
+	url = https://github.com/ros-planning/moveit_resources.git
