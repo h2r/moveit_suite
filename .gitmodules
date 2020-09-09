@@ -7,3 +7,6 @@
 [submodule "geometric_shapes"]
 	path = geometric_shapes
 	url = https://github.com/ros-planning/geometric_shapes.git
+[submodule "moveit_msgs"]
+	path = moveit_msgs
+	url = https://github.com/ros-planning/moveit_msgs.git
