@@ -19,3 +19,6 @@
 [submodule "moveit_visual_tools"]
 	path = moveit_visual_tools
 	url = https://github.com/ros-planning/moveit_visual_tools.git
+[submodule "srdfdom"]
+	path = srdfdom
+	url = https://github.com/ros-planning/srdfdom.git
