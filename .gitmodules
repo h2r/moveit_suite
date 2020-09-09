@@ -1,3 +1,6 @@
 [submodule "ompl"]
 	path = ompl
 	url = https://github.com/h2r/ompl.git
+[submodule "moveit"]
+	path = moveit
+	url = https://github.com/h2r/moveit.git
